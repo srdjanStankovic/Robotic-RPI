@@ -1,6 +1,6 @@
 # Description
 
-Robotic-RPI is extension board made for Raspberry Pi Model B Revision 1. Together with RPI it is used as a main board of the autonomous robot which communicating with other presented system over the RS-485 communication interface. This autonomous robot is participated in robotic competition [EUROBOT](http://www.eurobot.org/).
+Robotic-RPI is extension board made for Raspberry Pi Model B Revision 1. Together with RPI it is used as a main board of the autonomous robot which communicating with other boards presented on the system over the RS-485 communication interface. This autonomous robot participated in robotic competition [EUROBOT](http://www.eurobot.org/).
 
 # Board Overview
 Detail view with schematic and all layouts are prestened in [Robotic-RPI/Robotic-RPI.PDF](https://github.com/srdjanStankovic/Robotic-RPI/blob/master/Robotic-RPI/Robotic-RPI.PDF)
