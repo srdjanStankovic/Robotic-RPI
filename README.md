@@ -7,6 +7,8 @@ Detail view with schematic and all layouts are prestened in [Robotic-RPI/Robotic
 
 <img width="722" alt="capture" src="https://user-images.githubusercontent.com/8199494/51586227-acaa6f80-1edc-11e9-9af9-545e196c0b15.PNG">
 
+![robotic-rpi](https://user-images.githubusercontent.com/8199494/51624597-7819d080-1f3b-11e9-8939-dd7f61eb35c8.gif)
+
 # License
 This project is under CERN Open Hardware Licence v1.2.
 
