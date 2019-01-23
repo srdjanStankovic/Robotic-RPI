@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Robotic-RPI.PcbDoc   14/01/2019  21:21:01
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Robotic-RPI.TXT
+EIA File   : Robotic-RPI.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      25mil (0.635mm)                                           Round             16        PTH        3.31inch (84.15mm)
+T2      28mil (0.711mm)                                           Round             35        PTH        8.48inch (215.46mm)
+T3      35mil (0.9mm)                                             Round             26        PTH        2.50inch (63.50mm)
+T4      45mil (1.143mm)                                           Round             70        PTH        12.20inch (309.82mm)
+T5      59mil (1.5mm)                                             Round             2         PTH        0.20inch (5.03mm)
+T6      79mil (2mm)                                               Round             2         PTH        0.15inch (3.89mm)
+T7      119mil (3.023mm)                                          Round             2         PTH        2.37inch (60.17mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              153
+
+Total Processing Time (hh:mm:ss) : 00:00:00

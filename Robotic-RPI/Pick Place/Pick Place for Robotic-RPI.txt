@@ -1,0 +1,67 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+P19        HDR_1X2              -1344mil       -681mil      -1344mil       -731mil      -1344mil       -731mil  T         90.00 jumper         
+P18        BrxBeliKon         -1308.1mil    -1280.9mil      -1307mil      -1279mil    -1158.1mil    -1280.9mil  T        270.00 Serial         
+P17        BrxBeliKon         -1307.1mil     -100.9mil      -1306mil        -99mil    -1157.1mil     -100.9mil  T        270.00 RealTimeClock  
+P15        HDR_1X4              -1948mil      -1546mil      -1798mil      -1546mil      -1798mil      -1546mil  T        180.00 max485         
+P14        HDR_1X4              -1948mil      -1346mil      -1798mil      -1346mil      -1798mil      -1346mil  T        180.00 max485         
+P13        HDR_1X4              -1948mil      -1146mil      -1798mil      -1146mil      -1798mil      -1146mil  T        180.00 max485         
+P12        HDR_1X4              -1948mil       -946mil      -1798mil       -946mil      -1798mil       -946mil  T        180.00 max485         
+P11        HDR_1X4              -1948mil       -746mil      -1798mil       -746mil      -1798mil       -746mil  T        180.00 max485         
+P10        HDR_1X4              -1948mil       -546mil      -1798mil       -546mil      -1798mil       -546mil  T        180.00 max485         
+P9         HDR_1X4              -1948mil       -346mil      -1798mil       -346mil      -1798mil       -346mil  T        180.00 max485         
+P8         HDR_1X4              -1948mil       -146mil      -1798mil       -146mil      -1798mil       -146mil  T        180.00 max485         
+U3         QSOP-28            -1092.5mil     -794.5mil      -1103mil       -810mil       -930mil       -686mil  T        360.00 MAX3140        
+P4         HDR_1X6               -695mil      -1282mil       -445mil      -1282mil       -445mil      -1282mil  T        180.00 header_6       
+C2         TC7343-2917           -714mil      -1578mil       -714mil      -1578mil       -714mil  -1703.984mil  T         90.00 Cap Pol2       
+C3         1206_cap             -1518mil      -2079mil      -1518mil      -2079mil  -1462.882mil      -2079mil  T        360.00 cap_smd1206    
+C4         1206_cap              -457mil      -1474mil       -457mil      -1474mil       -457mil  -1418.882mil  T         90.00 cap_smd1206    
+D1         DSO-C2/X3.3          -1568mil  -2279.126mil      -1567mil      -2280mil  -1656.583mil  -2279.126mil  T        180.00 B360B-13-F     
+P1         Header2Combination      -1857mil    -2083.4mil      -1996mil      -2087mil      -1911mil    -2008.4mil  T        180.00 POWER          
+P3         HDR_1X9               -384mil       -652mil       -384mil       -252mil       -384mil       -252mil  T        270.00 UnusedPins     
+R1         1206_res             -1166mil      -1564mil      -1166mil      -1564mil  -1221.118mil      -1564mil  T        180.00 res            
+R2         1206_res              -107mil      -1473mil       -107mil      -1473mil       -107mil  -1417.882mil  T         90.00 res            
+R11        1206_res             -1352mil       -452mil      -1352mil       -452mil      -1352mil   -507.118mil  T        270.00 res            
+R5         1206_res             -1198mil      -1982mil      -1198mil      -1982mil      -1198mil  -1926.882mil  T         90.00 res            
+R6         1206_res             -1166mil      -1659mil      -1166mil      -1659mil  -1110.882mil      -1659mil  T        360.00 res            
+R7         1206_res             -1092mil      -2089mil      -1092mil      -2089mil      -1092mil  -2033.882mil  T         90.00 res            
+R8         1206_res             -1403mil      -1630mil      -1403mil      -1630mil  -1347.882mil      -1630mil  T        360.00 res            
+U1         SOIC_8PIN            -1374mil      -1877mil      -1373mil      -1877mil      -1449mil      -1982mil  T        180.00 TPS54340       
+U4         SOT-353               -640mil     -677.5mil       -638mil       -678mil       -605mil       -628mil  T         90.00 M74VHC1GT126DT1G
+Y2         XtalSmd               -988mil       -438mil       -988mil       -436mil       -818mil       -438mil  T        360.00 3.664MHz       
+P5         HDR_1X3               -444mil       -100mil       -544mil       -100mil       -544mil       -100mil  T        360.00 PWR-selection  
+P6         HDR_1X4              -1952mil      -1732mil      -1802mil      -1732mil      -1802mil      -1732mil  T        180.00 max485         
+C8         1206_cap             -1455mil      -1488mil      -1455mil      -1488mil      -1455mil  -1432.882mil  T         90.00 cap_smd1206    
+C9         1206_cap             -1352mil      -1489mil      -1352mil      -1489mil      -1352mil  -1433.882mil  T         90.00 cap_smd1206    
+C11        1206_cap             -1142mil      -1087mil      -1142mil      -1087mil  -1086.882mil      -1087mil  T        360.00 cap_smd1206    
+C12        1206_cap             -1103mil       -297mil      -1103mil       -297mil  -1047.882mil       -297mil  T        360.00 cap_smd1206    
+C13        1206_cap              -873mil       -297mil       -873mil       -297mil   -928.118mil       -297mil  T        180.00 cap_smd1206    
+D3         led1206               -273mil      -1422mil       -273mil      -1422mil   -217.882mil      -1422mil  T        360.00 LEDsmd         
+L1         INDUCTOR_SS1260-103MLD       -789mil    -2055.5mil       -804mil      -2057mil       -789mil      -2259mil  T        270.00 Inductor_MSS1260
+P7         BrxBeliKon          -827.1mil     -100.9mil       -826mil        -99mil     -677.1mil     -100.9mil  T        270.00 Serial         
+R4         1206_res              -536mil       -760mil       -536mil       -760mil       -536mil   -704.882mil  T         90.00 res            
+R9         1206_res             -1107mil      -1800mil      -1107mil      -1800mil      -1107mil  -1855.118mil  T        270.00 res            
+R10        1206_res              -824mil       -729mil       -824mil       -729mil       -824mil   -673.882mil  T         90.00 res            
+R12        1206_res              -735mil       -627mil       -735mil       -627mil       -735mil   -571.882mil  T         90.00 res            
+R13        1206_res             -1622mil       -545mil      -1622mil       -545mil  -1566.882mil       -545mil  T        360.00 res            
+R14        1206_res             -1622mil       -454mil      -1622mil       -454mil  -1677.118mil       -454mil  T        180.00 res            
+R15        1206_res             -1622mil       -819mil      -1622mil       -819mil  -1677.118mil       -819mil  T        180.00 res            
+R16        1206_res             -1622mil       -730mil      -1622mil       -730mil  -1677.118mil       -730mil  T        180.00 res            
+U7         SOIC-127              -702mil      -1055mil       -702mil      -1055mil       -552mil   -948.701mil  T        360.00 74HCT125       
+P16        HDR_1X2              -1588mil       -147mil      -1588mil        -97mil      -1588mil        -97mil  T        270.00 baterija       
+R3         1206_res             -1325mil      -2144mil      -1325mil      -2144mil  -1269.882mil      -2144mil  T        360.00 res            
+C1         TC7343-2917           -906mil      -1578mil       -906mil      -1578mil       -906mil  -1703.984mil  T         90.00 CapTantalum    
+Rt1        1206_res             -1946mil       -650mil      -1946mil       -650mil  -1890.882mil       -650mil  B        360.00 res            
+U2         SOIC_8PIN            -1217mil       -329mil      -1217mil       -328mil      -1322mil       -404mil  B        270.00 DS1307         
+U5         SOT-353               -864mil     -305.5mil       -862mil       -305mil       -829mil       -355mil  B        270.00 M74VHC1GT126DT1G
+Y1         XtalSmd              -1493mil       -564mil      -1495mil       -564mil      -1493mil       -734mil  B        270.00 3.664MHz       
+U6         SOT-353               -738mil     -305.5mil       -740mil       -306mil       -773mil       -256mil  B         90.00 M74VHC1GT126DT1G
+D4         DSO-C2/X3.3      -1677.126mil       -445mil      -1678mil       -444mil  -1677.126mil   -533.583mil  B        270.00 D Zener        
+D5         DSO-C2/X3.3      -1674.874mil       -748mil      -1674mil       -749mil  -1674.874mil   -659.417mil  B         90.00 D Zener        
+C10        1206_cap             -1186mil       -482mil      -1186mil       -482mil  -1241.118mil       -482mil  B        180.00 cap_smd1206    
+D2         DSO-C2/X3.3          -1542mil  -2263.874mil      -1541mil      -2263mil  -1630.583mil  -2263.874mil  B        180.00 sk24           
+C5         cap_smd1812          -1389mil      -2035mil      -1388mil      -2035mil      -1389mil  -2106.023mil  B        270.00 4.7uF          
+C6         cap_smd1812          -1543mil      -2035mil      -1542mil      -2035mil      -1543mil  -2106.023mil  B        270.00 4.7uF          
+C7         1206_cap             -1658mil      -2039mil      -1658mil      -2039mil      -1658mil  -1983.882mil  B         90.00 100nF          
+P2         HDR2X13               -165mil       -694mil       -215mil        -94mil       -215mil        -94mil  T        270.00 Raspberry_PI   
+
